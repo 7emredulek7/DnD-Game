@@ -1,0 +1,5 @@
+BossKaya, 999999
+Emre, 81
+Umut, 5
+Batuhan, 1
+Ali, 0
